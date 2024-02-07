@@ -1,4 +1,4 @@
-# Sector Performance Analysis
+# Industry Performance Analysis
 
 ## Overview
 
